@@ -2,7 +2,7 @@
 - 👀 卑微打工人
 - 🌱 在线摸鱼
 - 💞️ 
-- 📫 邮箱联系！2223610580@
+- 📫 邮箱联系！2223610580@qq.com
 
 <!---
 LZBigbuffalo/LZBigbuffalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
